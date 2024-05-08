@@ -59,11 +59,11 @@ Copy the relative path of the file.
 For the example code, run the following command:
 
 ```bash
-tsx examples/audio/create-speech.ts
+tsx examples/audio/create-speech-example.ts
 ```
 
 For your code, run the following command:
 
 ```bash
-tsx me/audio/create-speech.ts
+tsx me/audio/create-speech-me.ts
 ```
