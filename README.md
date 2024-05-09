@@ -8,11 +8,9 @@ This module is a guide to the OpenAI API.
 - [OpenAI Docs](https://platform.openai.com/docs/overview)
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
 
-## Prompts
+## Recommendations
 
 We recommend using [Cursor](https://cursor.sh/) to write code.
-
-Use the files in the `prompts` folder to help you in this module.
 
 ## Prerequisites
 
